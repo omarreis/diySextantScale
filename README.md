@@ -18,4 +18,4 @@ This simple DIY sextant uses common foamboard as base material.
 
 ![A4 sextant](A4sextant.jpg)
 
-See this Youtube video:  https://youtu.be/aTm6SjUeBZI
+See this Youtube maker video:  https://youtu.be/aTm6SjUeBZI
