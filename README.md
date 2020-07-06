@@ -18,4 +18,9 @@ This simple DIY sextant uses common foamboard as base material.
 
 ![A4 sextant](A4sextant.jpg)
 
-See this Youtube maker video:  https://youtu.be/aTm6SjUeBZI
+# Links
+A4 Sextant Youtube maker video:  https://youtu.be/aTm6SjUeBZI
+FB page: https://www.facebook.com/vrtoolsoftware
+A4 Sextant Instructable:  https://www.instructables.com/id/A4-Sextant/
+Foamboard Octant Instructable: https://www.instructables.com/id/The-Foamboard-Octant/
+tiktok of Sun observation using shade https://www.tiktok.com/@omar_reis/video/6844986821517085957
