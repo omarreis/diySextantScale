@@ -1,7 +1,6 @@
 # diySextantScale
 
-This repo contains high resolution images of marine sextant scales.
-These scales use Vernier style reading of seconds on the arc.
+This repo contains high resolution images of marine sextant scales, for DIY instrument projects.
 
 * Sextant scale images generated programatically to have geometrically correct proportions.
 * Original size is for printing on A4 sized paper with 600 DPI resolution. 
