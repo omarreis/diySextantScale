@@ -21,15 +21,27 @@ Which one is better ?
 
 ![sextant scales](SextantScalesCompared.png)
 
-# A4 sextant 
-This simple DIY sextant uses common foamboard as base material.
+For more details on how to build the sextant with mirrors, shade, calibration see sample projects. 
+
+# Easy A4 sextant 
+
+This simple DIY sextant uses common foamboard as frame material.
+
+* Instructable:  https://www.instructables.com/id/A4-Sextant/
+
+# Large A3 Octant
+
+* Old fashioned foamboard Octant Instructable:  https://www.instructables.com/id/The-Foamboard-Octant/
 
 # License
+
 Images published by oMAR REIS under MIT License ( attribution is appreciated ) 
+See https://github.com/omarreis/diySextantScale/blob/master/LICENSE
 
 ![A4 sextant](A4sextant.jpg)
 
 # Links
+
 * A4 Sextant DIY Youtube maker video:  https://youtu.be/aTm6SjUeBZI
 * A4 Sextant DIY Instructable:  https://www.instructables.com/id/A4-Sextant/
 * The Foamboard Octant DIY Instructable: https://www.instructables.com/id/The-Foamboard-Octant/
