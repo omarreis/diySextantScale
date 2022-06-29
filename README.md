@@ -36,6 +36,7 @@ This simple DIY sextant uses common foamboard as frame material.
 # License
 
 Images published by oMAR REIS under MIT License ( attribution is appreciated ) 
+
 See https://github.com/omarreis/diySextantScale/blob/master/LICENSE
 
 ![A4 sextant](A4sextant.jpg)
